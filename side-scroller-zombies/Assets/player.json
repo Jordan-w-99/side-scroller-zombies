@@ -1,0 +1,2295 @@
+{
+  "frames": {
+    "_Weapon/Bullet.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Weapon/Sword01.png": {
+      "frame": {
+        "x": 46,
+        "y": 0,
+        "w": 311,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 101
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Weapon/Gun01.png": {
+      "frame": {
+        "x": 357,
+        "y": 0,
+        "w": 451,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 451,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 451,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_000.png": {
+      "frame": {
+        "x": 808,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_001.png": {
+      "frame": {
+        "x": 1295,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_002.png": {
+      "frame": {
+        "x": 1782,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_003.png": {
+      "frame": {
+        "x": 2269,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_004.png": {
+      "frame": {
+        "x": 2756,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_005.png": {
+      "frame": {
+        "x": 3243,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_006.png": {
+      "frame": {
+        "x": 3730,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_007.png": {
+      "frame": {
+        "x": 4217,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_008.png": {
+      "frame": {
+        "x": 4704,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/01-Idle/JK_P_Gun__Idle_009.png": {
+      "frame": {
+        "x": 5191,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 487,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 487,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_000.png": {
+      "frame": {
+        "x": 5678,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_001.png": {
+      "frame": {
+        "x": 6097,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_002.png": {
+      "frame": {
+        "x": 6516,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_003.png": {
+      "frame": {
+        "x": 6935,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_004.png": {
+      "frame": {
+        "x": 7354,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/05-Jump/JK_P_Sword__Jump_000.png": {
+      "frame": {
+        "x": 7773,
+        "y": 0,
+        "w": 367,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 367,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 367,
+        "h": 436
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_005.png": {
+      "frame": {
+        "x": 0,
+        "y": 120,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_006.png": {
+      "frame": {
+        "x": 419,
+        "y": 406,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_007.png": {
+      "frame": {
+        "x": 838,
+        "y": 406,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_008.png": {
+      "frame": {
+        "x": 1257,
+        "y": 406,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/01-Idle/JK_P_Sword__Idle_009.png": {
+      "frame": {
+        "x": 1676,
+        "y": 406,
+        "w": 419,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 419,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 419,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_000.png": {
+      "frame": {
+        "x": 2095,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_001.png": {
+      "frame": {
+        "x": 2607,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_002.png": {
+      "frame": {
+        "x": 3119,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_003.png": {
+      "frame": {
+        "x": 3631,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_004.png": {
+      "frame": {
+        "x": 4143,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_005.png": {
+      "frame": {
+        "x": 4655,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_006.png": {
+      "frame": {
+        "x": 5167,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_007.png": {
+      "frame": {
+        "x": 5679,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_008.png": {
+      "frame": {
+        "x": 6191,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/04-Hurt/JK_P_Gun__Hurt_009.png": {
+      "frame": {
+        "x": 6703,
+        "y": 406,
+        "w": 512,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_000.png": {
+      "frame": {
+        "x": 7215,
+        "y": 406,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_001.png": {
+      "frame": {
+        "x": 7676,
+        "y": 436,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_002.png": {
+      "frame": {
+        "x": 0,
+        "y": 812,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_003.png": {
+      "frame": {
+        "x": 461,
+        "y": 812,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_004.png": {
+      "frame": {
+        "x": 922,
+        "y": 812,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_005.png": {
+      "frame": {
+        "x": 1383,
+        "y": 812,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_006.png": {
+      "frame": {
+        "x": 1844,
+        "y": 830,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_007.png": {
+      "frame": {
+        "x": 2305,
+        "y": 830,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_008.png": {
+      "frame": {
+        "x": 2766,
+        "y": 830,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/04-Hurt/JK_P_Sword__Hurt_009.png": {
+      "frame": {
+        "x": 3227,
+        "y": 830,
+        "w": 461,
+        "h": 424
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 461,
+        "h": 424
+      },
+      "sourceSize": {
+        "w": 461,
+        "h": 424
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_000.png": {
+      "frame": {
+        "x": 3688,
+        "y": 830,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_001.png": {
+      "frame": {
+        "x": 4209,
+        "y": 830,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_002.png": {
+      "frame": {
+        "x": 4730,
+        "y": 830,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_003.png": {
+      "frame": {
+        "x": 5251,
+        "y": 830,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_004.png": {
+      "frame": {
+        "x": 5772,
+        "y": 830,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_005.png": {
+      "frame": {
+        "x": 6293,
+        "y": 830,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_006.png": {
+      "frame": {
+        "x": 6814,
+        "y": 830,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_007.png": {
+      "frame": {
+        "x": 7335,
+        "y": 860,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_008.png": {
+      "frame": {
+        "x": 0,
+        "y": 1236,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/03-Shoot/JK_P_Gun__Shoot_009.png": {
+      "frame": {
+        "x": 521,
+        "y": 1236,
+        "w": 521,
+        "h": 426
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 426
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 426
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/05-Jump/JK_P_Gun__Jump_000.png": {
+      "frame": {
+        "x": 1042,
+        "y": 1236,
+        "w": 496,
+        "h": 436
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 496,
+        "h": 436
+      },
+      "sourceSize": {
+        "w": 496,
+        "h": 436
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_000.png": {
+      "frame": {
+        "x": 1538,
+        "y": 1254,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_001.png": {
+      "frame": {
+        "x": 2003,
+        "y": 1254,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_002.png": {
+      "frame": {
+        "x": 2468,
+        "y": 1254,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_003.png": {
+      "frame": {
+        "x": 2933,
+        "y": 1254,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_004.png": {
+      "frame": {
+        "x": 3398,
+        "y": 1256,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_005.png": {
+      "frame": {
+        "x": 3863,
+        "y": 1256,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_006.png": {
+      "frame": {
+        "x": 4328,
+        "y": 1256,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_007.png": {
+      "frame": {
+        "x": 4793,
+        "y": 1256,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_008.png": {
+      "frame": {
+        "x": 5258,
+        "y": 1256,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/02-Run/JK_P_Sword__Run_009.png": {
+      "frame": {
+        "x": 5723,
+        "y": 1256,
+        "w": 465,
+        "h": 442
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 465,
+        "h": 442
+      },
+      "sourceSize": {
+        "w": 465,
+        "h": 442
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_000.png": {
+      "frame": {
+        "x": 6188,
+        "y": 1256,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_001.png": {
+      "frame": {
+        "x": 6673,
+        "y": 1256,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_002.png": {
+      "frame": {
+        "x": 7158,
+        "y": 1286,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_003.png": {
+      "frame": {
+        "x": 7643,
+        "y": 1286,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_004.png": {
+      "frame": {
+        "x": 0,
+        "y": 1662,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_005.png": {
+      "frame": {
+        "x": 485,
+        "y": 1662,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_006.png": {
+      "frame": {
+        "x": 970,
+        "y": 1672,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_007.png": {
+      "frame": {
+        "x": 1455,
+        "y": 1696,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_008.png": {
+      "frame": {
+        "x": 1940,
+        "y": 1696,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Gun/02-Run/JK_P_Gun__Run_009.png": {
+      "frame": {
+        "x": 2425,
+        "y": 1696,
+        "w": 485,
+        "h": 447
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 485,
+        "h": 447
+      },
+      "sourceSize": {
+        "w": 485,
+        "h": 447
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_000.png": {
+      "frame": {
+        "x": 2910,
+        "y": 1698,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_001.png": {
+      "frame": {
+        "x": 3442,
+        "y": 1698,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_002.png": {
+      "frame": {
+        "x": 3974,
+        "y": 1698,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_003.png": {
+      "frame": {
+        "x": 4506,
+        "y": 1698,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_004.png": {
+      "frame": {
+        "x": 5038,
+        "y": 1698,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_005.png": {
+      "frame": {
+        "x": 5570,
+        "y": 1698,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_006.png": {
+      "frame": {
+        "x": 6102,
+        "y": 1703,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_007.png": {
+      "frame": {
+        "x": 6634,
+        "y": 1733,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_008.png": {
+      "frame": {
+        "x": 7166,
+        "y": 1733,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "_Mode-Sword/03-Slash/JK_P_Sword__Attack_009.png": {
+      "frame": {
+        "x": 0,
+        "y": 2109,
+        "w": 532,
+        "h": 452
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 532,
+        "h": 452
+      },
+      "sourceSize": {
+        "w": 532,
+        "h": 452
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_000.png": {
+      "frame": {
+        "x": 532,
+        "y": 2119,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_001.png": {
+      "frame": {
+        "x": 1146,
+        "y": 2143,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_002.png": {
+      "frame": {
+        "x": 1760,
+        "y": 2143,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_003.png": {
+      "frame": {
+        "x": 2374,
+        "y": 2150,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_004.png": {
+      "frame": {
+        "x": 2988,
+        "y": 2150,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_005.png": {
+      "frame": {
+        "x": 3602,
+        "y": 2150,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_006.png": {
+      "frame": {
+        "x": 4216,
+        "y": 2150,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_007.png": {
+      "frame": {
+        "x": 4830,
+        "y": 2150,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_008.png": {
+      "frame": {
+        "x": 5444,
+        "y": 2150,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "06-Die/JK_P__Die_009.png": {
+      "frame": {
+        "x": 6058,
+        "y": 2185,
+        "w": 614,
+        "h": 512
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 614,
+        "h": 512
+      },
+      "sourceSize": {
+        "w": 614,
+        "h": 512
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.6",
+    "image": "player.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 8140,
+      "h": 2697
+    },
+    "scale": 1
+  }
+}
