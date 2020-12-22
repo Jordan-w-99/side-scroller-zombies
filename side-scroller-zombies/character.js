@@ -3,7 +3,7 @@ class Character extends GameObject{
         super(x, y, w, h, img);
         this.facing = facing;
         this.state = 1;
-        this.animFrame = 0;
+        this.animFrame = 1;
         this.animFrameCount = animFrameCount;
         this.dead = false;
     }

@@ -3,11 +3,13 @@ class DataHandler {
     static imgData = {};
     static imgURLs = [
         "../Assets/player.png",
+        "../Assets/playeridle.png",
         "../Assets/zombie1.png",
         "../Assets/background.png"
     ];
     static dataURLs = [
         "../Assets/player.json",
+        "../Assets/playeridle.json",
         "../Assets/zombie1.json",
     ];
 

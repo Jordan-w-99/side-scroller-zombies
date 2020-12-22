@@ -7,12 +7,15 @@ class Player extends Character {
     }
 
     getCurFrame() {
-        if (this.state == 4) {
-            console.log(`06-Die/JK_P__Die_00${floor(this.animFrame)}.png`);
-            return this.img.data.frames[`06-Die/JK_P__Die_00${floor(this.animFrame)}.png`];
-        }
-        //console.log(`_Mode-${this.weapon}/0${this.state}-${this.states[this.state - 1]}/JK_P_${this.weapon}__${this.states[this.state - 1]}_00${floor(this.animFrame)}.png`);
-        return this.img.data.frames[`_Mode-${this.weapon}/0${this.state}-${this.states[this.state - 1]}/JK_P_${this.weapon}__${this.states[this.state - 1]}_00${floor(this.animFrame)}.png`];
+        // if (this.state == 4) {
+        //     console.log(`06-Die/JK_P__Die_00${floor(this.animFrame)}.png`);
+        //     return this.img.data.frames[`06-Die/JK_P__Die_00${floor(this.animFrame)}.png`];
+        // }
+        // //console.log(`_Mode-${this.weapon}/0${this.state}-${this.states[this.state - 1]}/JK_P_${this.weapon}__${this.states[this.state - 1]}_00${floor(this.animFrame)}.png`);
+        // return this.img.data.frames[`_Mode-${this.weapon}/0${this.state}-${this.states[this.state - 1]}/JK_P_${this.weapon}__${this.states[this.state - 1]}_00${floor(this.animFrame)}.png`];
+        // console.log(`idle-${floor(this.animFrame)}.png`)
+        return this.img.data.frames[`idle-${floor(this.animFrame)}.png`];
+
     }
 
     draw() {
@@ -34,14 +37,14 @@ class Player extends Character {
     update() {
         if (this.dead == false) {
 
-            this.animFrame += 1 * (deltaTime / 60);
+            this.animFrame += 1 * (deltaTime / 120);
             if (this.animFrame >= this.animFrameCount) {
                 if (this.state == 3) this.state = 1;
                 else if (this.state == 4) {
                     this.dead = true;
                     this.animFrame = this.animFrameCount-1;
                 }
-                if (this.state != 4) this.animFrame = 0;
+                if (this.state != 4) this.animFrame = 1;
             }
 
             this.vel.x = lerp(this.vel.x, 0, 0.1);
@@ -76,7 +79,7 @@ class Player extends Character {
 
     shoot() {
         if (this.state != 3 && this.state != 4) {
-            this.animFrame = 0;
+            this.animFrame = 1;
             this.state = 3;
 
             if (this.facing == 1) bullets.push(new Bullet(this.x + this.w / 2, this.y + 10, 10, 10, this.img, createVector(this.facing * 10, 0)));
@@ -91,10 +94,7 @@ class Player extends Character {
 
             if (this.health <= 0) {
                 this.state = 4;
-                this.animFrame = 0;
-                this.w = 120;
-                this.h = 100;
-                this.y += 20;
+                this.animFrame = 1;
                 console.log("dead");
             }
         }

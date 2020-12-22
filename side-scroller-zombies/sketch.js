@@ -23,7 +23,7 @@ function draw() {
     loaded = DataHandler.isLoaded();
 
     if (loaded == true) {
-      player = new Player(width / 2, (3 / 4) * height, 80, 80, { data: DataHandler.imgData['player'], img: DataHandler.imgs['player'] }, 10);
+      player = new Player(width / 2, (3 / 4) * height, 100, 100, { data: DataHandler.imgData['playeridle'], img: DataHandler.imgs['playeridle'] }, 9);
       bg = new Background(width / 2, height / 2, 2400, 400, DataHandler.imgs['background']);
       loaded = true;
       console.log("loaded");
